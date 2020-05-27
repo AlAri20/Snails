@@ -1,0 +1,2 @@
+# Snails
+Student project
